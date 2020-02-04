@@ -19,13 +19,6 @@
     padding: 50px 50px 50px 50px;
 	font-family: Lato, Arial, Georgia, sans-serif;
 }
-
-
-#search-results{
-    border: solid 1px gray;
-	width: 60%;
-	height: 600px;
-	margin-left: 20%;
-	margin-top: 5%;
-
+form{
+    padding: 10px;
 }
